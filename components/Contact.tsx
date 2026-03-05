@@ -43,7 +43,7 @@ const socialLinks = [
   {
     icon: Globe,
     label: 'Website',
-    href: 'https://jonarnic.github.io',
+    href: 'https://jefbbai.github.io',
     color: 'hover:bg-emerald-600 hover:text-white',
   },
 ]
