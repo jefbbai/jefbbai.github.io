@@ -13,7 +13,7 @@ const jetbrainsMono = JetBrains_Mono({
 })
 
 export const metadata: Metadata = {
-  title: 'Jeffry Bai | Senior Software Engineer',
+  title: 'Jeffrey Bain | Senior Software Engineer',
   description:
     'Senior Software Engineer specializing in full-stack web and mobile development, distributed systems, and AI integration.',
 }

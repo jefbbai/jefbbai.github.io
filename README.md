@@ -1,4 +1,4 @@
-# Jeffry Bai - Portfolio Website
+# Jeffrey Bain - Portfolio Website
 
 A modern, personal portfolio website built with Next.js, TypeScript, and Tailwind CSS.
 

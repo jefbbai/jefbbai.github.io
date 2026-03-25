@@ -11,7 +11,7 @@ export default function Footer() {
         <div className="flex flex-col md:flex-row items-center justify-between gap-4">
           <div className="text-center md:text-left">
             <p className="text-slate-400">
-              © {currentYear} Jeffry Bai. All rights reserved.
+              © {currentYear} Jeffrey Bain. All rights reserved.
             </p>
             <p className="text-sm text-slate-500 mt-1">
               Built with Next.js, TypeScript, and Tailwind CSS

@@ -38,7 +38,7 @@ export default function Navigation() {
             href="#"
             className="text-xl font-bold text-slate-900 hover:text-primary-600 transition-colors"
           >
-            Jeffry Bai
+            Jeffrey Bain
           </a>
 
           {/* Desktop Navigation */}
