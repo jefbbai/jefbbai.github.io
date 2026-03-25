@@ -7,8 +7,8 @@ const contactMethods = [
   {
     icon: Mail,
     label: 'Email',
-    value: 'jefbbai@gmail.com',
-    href: 'mailto:jefbbai@gmail.com',
+    value: 'jeffbai924@gmail.com',
+    href: 'mailto:jeffbai924@gmail.com',
     color: 'text-blue-600',
   },
   {

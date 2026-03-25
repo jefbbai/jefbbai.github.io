@@ -117,7 +117,7 @@ export default function Hero() {
               <span>LinkedIn</span>
             </a>
             <a
-              href="mailto:jefbbai@gmail.com"
+              href="mailto:jeffbai924@gmail.com"
               className="flex items-center gap-2 px-4 py-2 bg-slate-200 text-slate-900 rounded-lg hover:bg-slate-300 transition-colors"
             >
               <Mail size={18} />
